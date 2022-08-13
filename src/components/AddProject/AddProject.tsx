@@ -74,6 +74,7 @@ const AddProject = ({ className }: Props) => {
               <div className=" w-full pt-4">
                 <input
                   type="date"
+                  placeholder="Date"
                   className="w-full outline-none  py-1 mt-2 border-b"
                   onChange={handleChangeDate}
                   value={date}
