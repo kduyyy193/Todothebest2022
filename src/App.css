@@ -79,3 +79,7 @@ label:hover {
   background: url("asset/img/NotFound.gif") no-repeat;
   background-size: cover;
 }
+
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  margin-right: 8px !important;
+}
